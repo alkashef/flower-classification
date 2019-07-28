@@ -15,3 +15,6 @@ In this project, I train an image classifier to recognize different species of f
    - In the notebook: `colab = True`
    - The notebook can be modified in Colabs editor and checked-into Github automatically: *File > Save a copy to Github...*
 
+## References
+
+- [External data: Local Files, Drive, Sheets, and Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb) is an excellent reference for I/O on Google Colabs.
