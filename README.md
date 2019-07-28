@@ -12,6 +12,6 @@ In this project, I train an image classifier to recognize different species of f
    - Set `colab = False`
 2. Open it from [Google Colabs](https://colab.research.google.com) and run it there.
    - On Colabs: *File > Open notebook... > GITHUB*
-   - Set `colab = True`
+   - In the notebook: `colab = True`
    - The notebook can be modified in Colabs editor and checked-into Github automatically: *File > Save a copy to Github...*
 
