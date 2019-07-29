@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+data/flower_data/
+flower_data.zip 
+flower_data.*
