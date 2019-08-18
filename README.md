@@ -6,15 +6,23 @@ In this project, I train an image classifier to recognize different species of f
 
 ## Project Setup
 
-`main.ipynb` contains the project code and documentation. The notebook is designed to run in any of the following setups by setting the value of a single variable (`colab`):
+`main.ipynb` contains the project code and documentation. The notebook is designed 
+to run in any of the following setups by setting the value of a single variable (`colab`). 
+In either case, the dataset is downloaded from AWS and un-zipped. 
 
-1. Fork and clone the repo to a machine which has `Anaconda` and `PyTorch` and run it. 
+**Local Machine Setup**
+
+Fork and clone the repo to a machine which has `Anaconda` and `PyTorch` and run it. 
+
    - Set `colab = False`
-2. Open it from [Google Colabs](https://colab.research.google.com) and run it there.
+
+**Google Colabs Setup**
+
+Open it from [Google Colabs](https://colab.research.google.com) and run it there.
+
    - On Colabs: *File > Open notebook... > GITHUB*
    - In the notebook: `colab = True`
    - The notebook can be modified in Colabs editor and checked-into Github automatically: *File > Save a copy to Github...*
-
 
 ## References
 
