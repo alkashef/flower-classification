@@ -117,3 +117,6 @@ dmypy.json
 data/flower_data/
 flower_data.zip 
 flower_data.*
+
+# checkpoints
+*.pth
